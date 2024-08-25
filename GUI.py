@@ -1,5 +1,5 @@
 import customtkinter
-import tkinter
+
 from fib import fib
 
 customtkinter.set_appearance_mode('dark')
